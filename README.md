@@ -1,1 +1,1 @@
-# MTA-STS Cloudflare Worker
+# Cloudflare MTA-STS Worker
